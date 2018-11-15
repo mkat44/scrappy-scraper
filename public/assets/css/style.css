@@ -1,0 +1,29 @@
+body {
+    background: URL(../images/wavy-dots.png);
+}
+
+.container {
+    background-color: whitesmoke;
+    margin: auto;
+}
+
+#main-img {
+    height: 60%;
+    border-style: double;
+    border-color: black;
+    border-width: 2%;
+    padding: 1%;
+    margin: 6% 5%;
+}
+
+.title {
+    position: relative;
+    top: -13%;
+    left: 10%;
+}
+
+.footer {
+    text-align: center;
+    color: whitesmoke;
+    padding: 0.5%;
+}
